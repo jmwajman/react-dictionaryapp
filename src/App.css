@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(#ffffff 0%, #e6cbb2 100%);
+  background-image: linear-gradient(#ffffff 60%, #e6cbb2 150%);
   background-size: 100%;
   height: 1000px;
 }
@@ -21,6 +21,6 @@ footer {
 
 a {
   text-decoration: none;
-  color: rgb(94, 55, 19);
+  color: rgb(19, 77, 100);
   font-weight: 600;
 }
