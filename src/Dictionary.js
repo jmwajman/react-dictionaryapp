@@ -35,15 +35,19 @@ function load(){
 
 if (loaded) {
 return(
+    
     <div className="Dictionary">
+        <section>
         <form onSubmit={handleSubmit}>
             <input type="search"
             autoFocus="on"
             placeholder="Type a word..."
              onChange={handleKeyword}/>
         </form>
+        </section>
         <Results results={results}/>
     </div>
+    
 );
 } else {
     load();
