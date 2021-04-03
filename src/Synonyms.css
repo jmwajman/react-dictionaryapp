@@ -1,8 +1,9 @@
 .Synonyms {
   color: rgb(19, 77, 100);
   font-family: "Parisienne", cursive;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 21px;
+  margin: 0 auto;
 }
 
 .Synonyms li {
