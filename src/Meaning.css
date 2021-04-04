@@ -20,11 +20,12 @@ h3 {
   text-align: left;
   font-weight: 600;
   margin-top: 4px;
+  margin-bottom: 9px;
 }
 
 .Definition {
   border-top-style: solid;
   border-top-width: 1px;
-  border-top-color: rgb(245, 239, 238);
-  padding-top: 8px;
+  border-top-color: rgb(216, 209, 208);
+  padding-top: 10px;
 }
